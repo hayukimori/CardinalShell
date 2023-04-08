@@ -1,0 +1,2 @@
+# CardinalShell
+PENDENTE
