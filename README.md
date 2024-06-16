@@ -16,8 +16,6 @@
 > CardinalShell is a python project, focused to recreate a usable shell supporting linear commands dynamically.
 
 
-> [!WARNING]
-> This application is still under development, please be aware that it is not fully functional, and may stop working during runtime
 
 ### Objectives
 - [ ] Add support to multiple commands inline
@@ -43,4 +41,5 @@ $ cd CardinalShell
 $ python csh.py
 ```
 
- 
+> [!WARNING]
+> This application is still under development, please be aware that it is not fully functional, and may stop working during runtime
