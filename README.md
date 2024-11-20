@@ -22,6 +22,7 @@
 - [ ]  Add speech recognition to SystemCall lib.
 - [ ] Basic commands
 - [ ]  Error handler
+- [ ]  Change Error Message
 
 ## How to run it
 Some programs are required to run this application:
